@@ -8,5 +8,5 @@ while [ $i -gt 0 ];do
     if [ $i = 2 ]; then
         echo "Hi"
     fi
-   $ i-=1
+  
 done
