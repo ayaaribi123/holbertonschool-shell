@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # loop 4th bad luck 8th good luck 
 
-i=0
+i=1
 
 while [ $i -lt 10 ]; do
     if [ $i = 4 ];
