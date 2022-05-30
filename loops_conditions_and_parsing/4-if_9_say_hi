@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # loop 10 times prints 9th loop says hi
-
 i=10
 
 while [ $i -gt 0 ];do
