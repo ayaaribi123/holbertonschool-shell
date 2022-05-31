@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # prints time *
-i=0
+hour=0
 while [ $hour -le 12 ]
 do
-    echo"hour:$hour"
+    echo "hour: $hour"
      min=1
-     while[$min -le 59]
+     while [ $min -le 59 ]
        do 
        echo $min
-        ((min++))
+       ((min++))
         done 
       ((hour++))
 done
