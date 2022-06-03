@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # process 
-hle true 
+wihle true 
 do 
-		echo "I am alive!" > /tmp/myprocess
+ echo "I am alive!" > /tmp/myprocess
 			sleep 2
 done
